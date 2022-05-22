@@ -1,0 +1,53 @@
+1)Java main method:
+Java main method is the entry point of any java program. Its syntax is always public static void main(String[] args) . You can only change the name of String array argument
+2)Control flow statements:
+There are many control flow statement available in java such as Decision making,iteration statement,bracnching statement.
+  if,else,if else,nested if,switch
+  *Looping(Iteration)
+   While,do-while,for,for each
+3)Break&continue:
+*The break statement is used to terminate the loop immediately
+*break keyword is used to indicate break statements in java programming.
+*It stops the execution of the loop
+*We can use a break with the switch statement.
+
+Continue:
+*The continue statement is used to skip the current iteration of the loop.
+*We can not use a continue with the switch statement.
+*It does not stop the execution of the loop.
+
+4)Array:
+Array is group of collection of same data type.Its define withSquare bracket[]. 
+We declare array in java same as other varaible
+*Literals
+int arr[]={28,49,58};
+
+*new keyword
+it is used to create a instance of class
+
+5)ArrayIndexOutOfBoundException:
+We will get ArrayIndexOutOfBoundsException when the index may be negative or exceed the size of an array.
+
+6)Object create:
+syntax for creating object is
+  Mugil obj=new Mugil();
+  when we create instance of class by using new keyword it allocate new heap for newly created object
+a) while creating naming convention should be giving as.Methods should be verbs, in mixed case with the first letter lowercase, with the first letter of each internal word capitalized.
+
+7)Variable:
+A variable is place to store data it has name,value,type
+
+8)String:
+String is immutable non-primitive datatype it cannot be replace with other data in same memory.
+
+9)String object
+There are three ways to create string object in java
+1.string literals-->string str="testleaf";
+2.new keyword-->string str1= new String("Hello!");
+3.character array-->char ch[]={'m','d','a'};
+string str2-new string(ch);
+
+10)(a)Equals:
+it is used to compare the string(check memory)
+(b)==.-->
+it is used to check the content is correct or not 
