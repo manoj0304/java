@@ -30,7 +30,8 @@ We will get ArrayIndexOutOfBoundsException when the index may be negative or exc
 
 6)Object create:
 syntax for creating object is
-  Mugil obj=new Mugil();
+  Manoj
+  obj=new Manoj();
   when we create instance of class by using new keyword it allocate new heap for newly created object
 a) while creating naming convention should be giving as.Methods should be verbs, in mixed case with the first letter lowercase, with the first letter of each internal word capitalized.
 
