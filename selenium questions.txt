@@ -63,9 +63,9 @@ System.setProperty:
 
 9) Write the syntax for preceding and following x-paths?
 Following xpath:        
- //label[text()='Mugil']//following-sibling::input
+ //label[text()='Manoj']//following-sibling::input
 Preceeding xpath:
- //input[text='Mugil']//preceeding-sibling::label
+ //input[text='Manoj']//preceeding-sibling::label
 
 10) How to get an attribute value using Selenium WebDriver?
 	To get the attribute value using selenium webdriver, we can use 'element. getAttribute(attributeName)'. 
